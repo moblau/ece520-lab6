@@ -1,0 +1,14 @@
+Thu Mar 31 19:34:05 2022: Server was asked to start on port: '46337'
+Thu Mar 31 19:34:05 2022: Server is using token UUID: '1357d57f-0737-43dd-a928-c510cb639ff6'
+Thu Mar 31 19:34:05 2022: Attempting to start server on port '46337'
+Thu Mar 31 19:34:05 2022: XRC main fifo: created main fifo '/tmp/xrcmain1357d57f-0737-43dd-a928-c510cb639ff6', fd read = 11
+Thu Mar 31 19:34:05 2022: Running Rule Check Server
+Thu Mar 31 19:34:05 2022: Version 1.6.1
+Thu Mar 31 19:34:07 2022: Rule Check Server: Accepted socket connection from client
+Thu Mar 31 19:34:07 2022: EXCHANGE_TOKEN received, server token: 1357d57f-0737-43dd-a928-c510cb639ff6, passed token: 1357d57f-0737-43dd-a928-c510cb639ff6
+Thu Mar 31 19:35:09 2022: STOP_SERVER received, server token: 1357d57f-0737-43dd-a928-c510cb639ff6, passed token: 1357d57f-0737-43dd-a928-c510cb639ff6
+Thu Mar 31 19:35:09 2022: Socket received request to stop server.
+Thu Mar 31 19:35:09 2022: SERVER: destructor for server bound to port 46337
+Thu Mar 31 19:35:09 2022: XRC main fifo: Good unlink of /tmp/xrcmain1357d57f-0737-43dd-a928-c510cb639ff6
+Thu Mar 31 19:35:09 2022: Server exiting with status 0.
+Thu Mar 31 19:35:09 2022: Closing log file.

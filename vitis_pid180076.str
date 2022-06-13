@@ -1,0 +1,76 @@
+/*
+
+Xilinx Vitis v2021.2.0 (64-bit) [Major: 2021, Minor: 2]
+SW Build 3363750 on 2021-10-16-13:10:08
+
+Process ID (PID): 180076
+License: Customer
+
+Current time: 	Thu Mar 31 19:34:04 PDT 2022
+Time zone: 	Pacific Standard Time (America/Los_Angeles)
+
+OS: Ubuntu
+OS Version: 5.13.0-35-generic
+OS Architecture: amd64
+Available processors (cores): 4
+
+Display: :0
+Screen size: 2560x1440
+Available screens: 2
+Available disk space: 337 GB
+
+Java version: 	11.0.11 64-bit
+Java home: 	/tools/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9
+Java executable location: 	/tools/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9/bin/java
+Java initial memory (-Xms): 	64 MB
+Java maximum memory (-Xmx):	 1,024 MB
+
+Java library paths: /tools/Xilinx/Vitis/2021.2/tps/lnx64/javafx-sdk-11.0.2/lib:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu/20:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o:/tools/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9/lib/:/tools/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9/lib//server:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu/20:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu:/tools/Xilinx/Vitis/2021.2/lib/lnx64.o:/tools/Xilinx/Vitis/2021.2/tps/lnx64/python-3.8.3/lib:/tools/Xilinx/Vitis/2021.2/aietools/lib/lnx64.o:/tools/Xilinx/Vitis/2021.2/bin/../lnx64/tools/dot/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+
+Java class paths: /tools/Xilinx/Vitis/2021.2/eclipse/lnx64.o//plugins/org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar
+LD_LIBRARY_PATH: /tools/Xilinx/Vitis
+
+User name: 	moblau
+User home directory: /home/moblau
+User working directory: /home/moblau/ece520/lab6/sp22-e520-lab-assignment6-moblau
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /tools/Xilinx/Vitis
+HDI_APPROOT: /tools/Xilinx/Vitis/2021.2
+RDI_DATADIR: /tools/Xilinx/Vitis/2021.2/data
+RDI_BINDIR: /tools/Xilinx/Vitis/2021.2/bin
+
+Vitis preferences directory: /home/moblau/.Xilinx/Vitis/2021.2/
+Vitis workspace directory: /home/moblau/ece520/lab6/sp22-e520-lab-assignment6-moblau/part1/embd-sw-2021.2-rev1-xlnx_lab_files/training/SWinterrupts/lab
+Vitis workspace log file location: /home/moblau/ece520/lab6/sp22-e520-lab-assignment6-moblau/part1/embd-sw-2021.2-rev1-xlnx_lab_files/training/SWinterrupts/lab/.metadata/.log
+Engine tmp dir: 	
+
+Xilinx Environment Variables
+----------------------------
+XILINX_DSP: 
+XILINX_HLS: /tools/Xilinx/Vitis_HLS/2021.2
+XILINX_PLANAHEAD: /tools/Xilinx/Vitis/2021.2
+XILINX_SDK: /tools/Xilinx/Vitis/2021.2
+XILINX_VITIS: /tools/Xilinx/Vitis/2021.2
+XILINX_VIVADO: /tools/Xilinx/Vivado/2021.2
+XILINX_VIVADO_HLS: /tools/Xilinx/Vivado/2021.2
+_RDI_DONT_SET_XILINX_AS_PATH: True
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+selectMenuItem("Window", "WorkbenchWindow", "MenuItem.WINDOW");
+selectMenuItem("Show view", "WorkbenchWindow", "MenuItem.SHOW_VIEW");
+closeView("stopwatch_intr.c", "swIntr_app/src/stopwatch_intr.c", "CEditor", "CTabItem.STOPWATCH_INTR_C");
+selectMenuItem("Window", "WorkbenchWindow", "MenuItem.WINDOW");
+selectMenuItem("Show view", "WorkbenchWindow", "MenuItem.SHOW_VIEW");
+selectTree("XSCT Console", "Xilinx", EventType.DOUBLE_CLICK, "Show View", "ShowViewDialog", "Tree.ApplicationImpl");
+activateView("XSCT Console", "XSDBConsoleView", "CTabItem.XSCT_CONSOLE");
+selectButton("Exit", "Confirm Exit", "MessageDialogWithToggle", "Button.EXIT");
+// Exiting Xilinx Vitis with a status code '0' at 3/31/22, 7:35:09 PM PDT
+// Elapsed time: 00:01:06
+
